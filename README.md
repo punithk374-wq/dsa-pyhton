@@ -18,6 +18,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3110-score-of-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3110-score-of-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
 <!---LeetCode Topics End-->
