@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0027-remove-element/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
