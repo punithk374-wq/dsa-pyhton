@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -103,9 +105,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
