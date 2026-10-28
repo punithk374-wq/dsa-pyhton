@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0009-palindrome-number/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
