@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0709-to-lower-case/) | Easy |
@@ -143,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
