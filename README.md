@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0009-palindrome-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
