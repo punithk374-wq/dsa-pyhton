@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Array
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
