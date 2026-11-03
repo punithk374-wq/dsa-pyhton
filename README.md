@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0202-happy-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
