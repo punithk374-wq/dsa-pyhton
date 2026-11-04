@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
