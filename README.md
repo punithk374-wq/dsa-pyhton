@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0202-happy-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0771-jewels-and-stones/) | Easy |
