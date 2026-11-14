@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0202-happy-number/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
