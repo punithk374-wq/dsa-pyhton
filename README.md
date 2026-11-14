@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -180,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
