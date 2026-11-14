@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0136-single-number/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
