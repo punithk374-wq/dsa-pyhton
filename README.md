@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0268-missing-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0268-missing-number/) | Easy |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
