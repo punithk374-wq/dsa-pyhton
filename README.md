@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0268-missing-number/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0070-climbing-stairs/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
