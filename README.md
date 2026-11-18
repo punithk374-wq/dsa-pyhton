@@ -215,4 +215,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/punithk374-wq/dsa-pyhton/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
