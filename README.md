@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/punithk374-wq/dsa-pyhton/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/punithk374-wq/dsa-pyhton/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3110-score-of-a-string](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/punithk374-wq/dsa-pyhton/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
